@@ -1,0 +1,72 @@
+TASK 2
+
+
+P=0.01
+Final Data Transfer time:   25.15744185447693
+Final Data Transfer time:   27.13144087791443
+Final Data Transfer time:   40.202253103256226
+Final Data Transfer time:   32.154324769973755
+Final Data Transfer time:   39.2212700843811
+
+P=0.02
+Final Data Transfer time:   68.39297103881836
+Final Data Transfer time:   50.281494140625
+Final Data Transfer time:   58.341569900512695
+Final Data Transfer time:   65.33825469017029
+Final Data Transfer time:   45.22815299034119
+
+P=0.03
+Final Data Transfer time:   76.39301109313965
+Final Data Transfer time:   92.53419089317322
+Final Data Transfer time:   81.4945559501648
+Final Data Transfer time:   75.38388800621033
+Final Data Transfer time:   75.40442490577698
+
+P=0.04
+Final Data Transfer time:   93.52019214630127
+Final Data Transfer time:   97.7046890258789
+Final Data Transfer time:   97.69477415084839
+Final Data Transfer time:   104.5484778881073
+Final Data Transfer time:   112.58753108978271
+
+P=0.05
+Final Data Transfer time:   110.62614798545837
+Final Data Transfer time:   119.75013089179993
+Final Data Transfer time:   129.77956986427307
+Final Data Transfer time:   94.91529583930969
+Final Data Transfer time:   128.24553394317627
+
+P=0.06
+Final Data Transfer time:   147.47376990318298
+Final Data Transfer time:   138.29244184494019
+Final Data Transfer time:   142.39522409439087
+Final Data Transfer time:   133.26327204704285
+Final Data Transfer time:   143.28190517425537
+
+P=0.07
+Final Data Transfer time:   159.56608295440674
+Final Data Transfer time:   173.65450382232666
+Final Data Transfer time:   159.46783018112183
+Final Data Transfer time:   165.50005769729614
+Final Data Transfer time:   149.34931111335754
+
+P=0.08
+Final Data Transfer time:   189.64034271240234
+Final Data Transfer time:   163.5778579711914
+Final Data Transfer time:   179.58101511001587
+Final Data Transfer time:   197.7483251094818
+Final Data Transfer time:   205.85756492614746
+
+P=0.09
+Final Data Transfer time:   203.8854956626892
+Final Data Transfer time:   235.16861414909363
+Final Data Transfer time:   229.67659378051758
+Final Data Transfer time:   229.66816806793213
+Final Data Transfer time:   219.49685502052307
+
+P=0.10
+Final Data Transfer time:   233.42062902450562
+Final Data Transfer time:   239.4268238544464
+Final Data Transfer time:   237.42429089546204
+Final Data Transfer time:   247.56187796592712
+Final Data Transfer time:   231.9927339553833

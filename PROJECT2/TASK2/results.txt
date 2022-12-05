@@ -1,0 +1,72 @@
+TASK 2
+
+
+MSS=100
+Final Data Transfer time:   561.2691481113434
+Final Data Transfer time:   600.8769752979279
+Final Data Transfer time:   593.662456035614
+Final Data Transfer time:   555.3563702106476
+Final Data Transfer time:   543.9665539264679
+
+MSS=200
+Final Data Transfer time:   311.034725189209
+Final Data Transfer time:   319.0437591075897
+Final Data Transfer time:   296.83942103385925
+Final Data Transfer time:   279.62268805503845
+Final Data Transfer time:   278.4501612186432
+
+MSS=300
+Final Data Transfer time:   183.62927722930908
+Final Data Transfer time:   198.7698938846588
+Final Data Transfer time:   198.70159482955933
+Final Data Transfer time:   192.73680591583252
+Final Data Transfer time:   217.9931058883667
+
+MSS=400
+Final Data Transfer time:   163.33531069755554
+Final Data Transfer time:   154.3372781276703
+Final Data Transfer time:   157.40784192085266
+Final Data Transfer time:   152.37656784057617
+Final Data Transfer time:   151.40391206741333
+
+MSS=500
+Final Data Transfer time:   118.98492288589478
+Final Data Transfer time:   110.0473279953003
+Final Data Transfer time:   129.14681196212769
+Final Data Transfer time:   133.1680989265442
+Final Data Transfer time:   130.2135579586029
+
+MSS=600
+Final Data Transfer time:   100.89122796058655
+Final Data Transfer time:   87.72794604301453
+Final Data Transfer time:   104.89742517471313
+Final Data Transfer time:   88.81167817115784
+Final Data Transfer time:   84.76125693321228
+
+MSS=700
+Final Data Transfer time:   78.74970769882202
+Final Data Transfer time:   97.84962892532349
+Final Data Transfer time:   84.75743579864502
+Final Data Transfer time:   71.63906979560852
+Final Data Transfer time:   91.77631402015686
+
+MSS=800
+Final Data Transfer time:   69.64680910110474
+Final Data Transfer time:   76.70718502998352
+Final Data Transfer time:   51.41556191444397
+Final Data Transfer time:   69.62648868560791
+Final Data Transfer time:   87.79946494102478
+
+MSS=900
+Final Data Transfer time:   62.52611708641052
+Final Data Transfer time:   62.552488803863525
+Final Data Transfer time:   72.674076795578
+Final Data Transfer time:   58.555493116378784
+Final Data Transfer time:   69.64441180229187
+
+MSS=1000
+Final Data Transfer time:   58.49224805831909
+Final Data Transfer time:   61.55053210258484
+Final Data Transfer time:   65.58887386322021
+Final Data Transfer time:   52.498563051223755
+Final Data Transfer time:   63.587895154953
