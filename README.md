@@ -31,4 +31,13 @@ where #ABC means a command line argument
 
 5. Run 'sudo ufw reload' 
 
-6. Install Python on VCL, run 'yum install -y python3' 
+6. Install Python on VCL, run 'yum install -y python3'
+
+## Steps to run TASK 1, 2 and 3:
+
+1. To run the client:
+	* Run the shell script using command
+		Command: sh run_client.sh
+2. To run the server
+	* Run the shell script using command
+		Command: sh run.sh
